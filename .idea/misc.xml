@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/kuliah/semester 5/Mobile/kodingan/04AndroidRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/kuliah/semester 5/Mobile/kodingan/04AndroidRecyclerView/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/semester 5/Mobile/kodingan/04AndroidRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/kuliah/semester 5/Mobile/kodingan/04AndroidRecyclerView/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/kuliah/semester 5/Mobile/kodingan/04AndroidRecyclerView/app/src/main/res/layout/mountain_list.xml" value="0.20520833333333333" />
         <entry key="..\:/kuliah/semester 5/Mobile/kodingan/04AndroidRecyclerView/app/src/main/res/layout/wordlist_item.xml" value="0.20833333333333334" />
       </map>
     </option>
